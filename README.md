@@ -10,6 +10,18 @@ This enables partners, customers, support teams, renewals specialists, and opera
 
 ---
 
+## Disclaimer
+
+SNTC DataMiner is an independent automation solution and is not an officially supported Cisco product.
+
+Users are responsible for:
+
+* API credential management
+* Responsible rate limit usage
+* Compliance with Cisco API policies
+* Internal governance requirements
+
+---
 ## Key Benefits
 
 * Automates Smart Net Total Care inventory and services data collection
@@ -176,20 +188,6 @@ SNTC DataMiner generates:
 * Renewals Specialists
 * Technical Operations Teams
 * Automation Engineers
-
----
-
-## Disclaimer
-
-SNTC DataMiner is an independent automation solution and is not an officially supported Cisco product.
-
-Users are responsible for:
-
-* API credential management
-* Compliance with Cisco API policies
-* Responsible API usage
-* Internal governance
-* Operational validation
 
 ---
 
