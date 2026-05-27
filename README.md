@@ -137,7 +137,7 @@ pip install requests pandas openpyxl pyyaml
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/CiscoSteve/SNTC-DataMiner.git
+git clone https://github.com/PythonAPICoder/SNTC-DataMiner.git
 ```
 
 2. Configure API credentials in `config.ini`
